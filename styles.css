@@ -1,5 +1,5 @@
 body {
-    background-image: url("/images/texture.jpg");
+    background-image: url("./images/texture.jpg");
     width: 100%;
     height: auto;
     text-align: center;
